@@ -1,2 +1,4 @@
 rootProject.name = 'Sorting'
+include 'sorters'
+include 'mod'
 
